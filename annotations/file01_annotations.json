@@ -1,0 +1,24 @@
+[
+    {
+        "page": 0,
+        "bbox_pdf": [
+            191.8181818181818,
+            102.72727272727272,
+            444.5454545454545,
+            122.72727272727272
+        ],
+        "label": "TITLE",
+        "text": "Application form for grant of LTC advance"
+    },
+    {
+        "page": 0,
+        "bbox_pdf": [
+            46.66666666666666,
+            122.2222222222222,
+            578.8888888888888,
+            714.4444444444443
+        ],
+        "label": "BODY",
+        "text": "Name of the Government Servant 1. \nDesignation \n2. \nDate of entering the Central Government \n3. \nService \nPAY + SI + NPA 4. \nWhether permanent or temporary \n5. \n6. Home Town as recorded in the Service Book \nWhether wife / husband is employed and if \n7. \nso whether entitled to LTC \nWhether the concession is to be availed for \nvisiting home town and if so block for which \n8. \nLTC is to be availed. \n(a) If the concession is to visit anywhere in \nIndia, the place to be visited. 9. \n(b) Block for which to be availed. \nSingle rail fare/bus fare from the \nheadquarters to home town/place of visit by \n10. \nshortest route. \nPersons in respect of whom LTC is proposed to be availed. \nS.No Name Age Relationship \n1. \n2. \n11. 3. \n4. \n5. \n6. \nAmount of advance required. Rs. \n12. \nI declare that the particulars furnished above are true and correct to the best of my knowledge.  I \nundertake to produce the tickets for the outward journey within ten days of receipt of the advance. \nIn the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of \nadvance, I undertake to refund the entire advance in one lump sum. \nDate \nSignature of Government Servant."
+    }
+]

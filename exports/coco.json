@@ -1,0 +1,674 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_1.jpg",
+            "width": 419,
+            "height": 662
+        },
+        {
+            "id": 2,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_2.jpg",
+            "width": 405,
+            "height": 653
+        },
+        {
+            "id": 3,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_3.jpg",
+            "width": 411,
+            "height": 656
+        },
+        {
+            "id": 4,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_4.jpg",
+            "width": 403,
+            "height": 653
+        },
+        {
+            "id": 5,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_5.jpg",
+            "width": 398,
+            "height": 650
+        },
+        {
+            "id": 6,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_6.jpg",
+            "width": 407,
+            "height": 655
+        },
+        {
+            "id": 7,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_7.jpg",
+            "width": 398,
+            "height": 649
+        },
+        {
+            "id": 8,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_8.jpg",
+            "width": 403,
+            "height": 653
+        },
+        {
+            "id": 9,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_9.jpg",
+            "width": 405,
+            "height": 655
+        },
+        {
+            "id": 10,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_10.jpg",
+            "width": 410,
+            "height": 657
+        },
+        {
+            "id": 11,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_11.jpg",
+            "width": 400,
+            "height": 650
+        },
+        {
+            "id": 12,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_12.jpg",
+            "width": 411,
+            "height": 657
+        },
+        {
+            "id": 13,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_13.jpg",
+            "width": 409,
+            "height": 656
+        },
+        {
+            "id": 14,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_14.jpg",
+            "width": 398,
+            "height": 649
+        },
+        {
+            "id": 15,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_15.jpg",
+            "width": 400,
+            "height": 650
+        },
+        {
+            "id": 16,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_16.jpg",
+            "width": 398,
+            "height": 649
+        },
+        {
+            "id": 17,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_17.jpg",
+            "width": 405,
+            "height": 655
+        },
+        {
+            "id": 18,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_18.jpg",
+            "width": 399,
+            "height": 650
+        },
+        {
+            "id": 19,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_19.jpg",
+            "width": 415,
+            "height": 659
+        },
+        {
+            "id": 20,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_20.jpg",
+            "width": 405,
+            "height": 653
+        },
+        {
+            "id": 21,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_21.jpg",
+            "width": 410,
+            "height": 655
+        },
+        {
+            "id": 22,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_22.jpg",
+            "width": 401,
+            "height": 651
+        },
+        {
+            "id": 23,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_23.jpg",
+            "width": 403,
+            "height": 653
+        },
+        {
+            "id": 24,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_24.jpg",
+            "width": 407,
+            "height": 655
+        },
+        {
+            "id": 25,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_25.jpg",
+            "width": 417,
+            "height": 661
+        },
+        {
+            "id": 26,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_26.jpg",
+            "width": 408,
+            "height": 656
+        },
+        {
+            "id": 27,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_27.jpg",
+            "width": 403,
+            "height": 653
+        },
+        {
+            "id": 28,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_28.jpg",
+            "width": 400,
+            "height": 650
+        },
+        {
+            "id": 29,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_29.jpg",
+            "width": 422,
+            "height": 665
+        },
+        {
+            "id": 30,
+            "file_name": "01_Legal_Documents_United States Senate Select Committee to_page_30.jpg",
+            "width": 398,
+            "height": 649
+        },
+        {
+            "id": 31,
+            "file_name": "06_Catalogs_CIA Reading Room cia-rdp83m00171r0011001_page_1.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 32,
+            "file_name": "06_Catalogs_CIA Reading Room cia-rdp83m00171r0011001_page_2.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 33,
+            "file_name": "1706.03762v7_page_1.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 34,
+            "file_name": "1706.03762v7_page_2.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 35,
+            "file_name": "1706.03762v7_page_3.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 36,
+            "file_name": "1706.03762v7_page_4.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 37,
+            "file_name": "1706.03762v7_page_5.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 38,
+            "file_name": "1706.03762v7_page_6.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 39,
+            "file_name": "1706.03762v7_page_7.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 40,
+            "file_name": "1706.03762v7_page_8.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 41,
+            "file_name": "1706.03762v7_page_9.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 42,
+            "file_name": "1706.03762v7_page_10.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 43,
+            "file_name": "1706.03762v7_page_11.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 44,
+            "file_name": "1706.03762v7_page_12.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 45,
+            "file_name": "1706.03762v7_page_13.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 46,
+            "file_name": "1706.03762v7_page_14.jpg",
+            "width": 612,
+            "height": 792
+        },
+        {
+            "id": 47,
+            "file_name": "1706.03762v7_page_15.jpg",
+            "width": 612,
+            "height": 792
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "bbox": [
+                64.0,
+                115.33333333333333,
+                293.3333333333333,
+                46.66666666666667
+            ],
+            "category_id": 1,
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "bbox": [
+                30.909090909090907,
+                165.45454545454544,
+                345.4545454545454,
+                449.99999999999994
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 2,
+            "bbox": [
+                20.909090909090907,
+                57.272727272727266,
+                351.81818181818176,
+                562.7272727272727
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 3,
+            "bbox": [
+                28.18181818181818,
+                49.99999999999999,
+                340.9090909090909,
+                551.8181818181818
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 4,
+            "bbox": [
+                19.09090909090909,
+                54.54545454545454,
+                348.1818181818182,
+                576.3636363636364
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 5,
+            "bbox": [
+                28.18181818181818,
+                52.72727272727272,
+                341.81818181818176,
+                553.6363636363635
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 6,
+            "bbox": [
+                13.636363636363635,
+                58.18181818181818,
+                360.0,
+                570.0
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 7,
+            "bbox": [
+                14.545454545454545,
+                53.63636363636363,
+                349.99999999999994,
+                575.4545454545454
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 8,
+            "bbox": [
+                40.90909090909091,
+                49.99999999999999,
+                332.72727272727275,
+                576.3636363636363
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 9,
+            "bbox": [
+                37.272727272727266,
+                59.090909090909086,
+                340.0,
+                561.8181818181818
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": 10,
+            "bbox": [
+                33.63636363636363,
+                52.72727272727272,
+                345.45454545454544,
+                595.4545454545454
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": 11,
+            "bbox": [
+                25.454545454545453,
+                49.99999999999999,
+                332.7272727272727,
+                556.3636363636363
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": 12,
+            "bbox": [
+                36.36363636363636,
+                58.18181818181818,
+                345.45454545454544,
+                562.7272727272727
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": 13,
+            "bbox": [
+                27.27272727272727,
+                48.18181818181818,
+                345.45454545454544,
+                578.1818181818181
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": 14,
+            "bbox": [
+                21.818181818181817,
+                49.99999999999999,
+                346.3636363636363,
+                580.0
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": 15,
+            "bbox": [
+                12.727272727272727,
+                42.72727272727273,
+                368.18181818181813,
+                540.9090909090909
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": 16,
+            "bbox": [
+                25.454545454545453,
+                56.36363636363636,
+                349.09090909090907,
+                559.9999999999999
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 17,
+            "bbox": [
+                22.727272727272727,
+                50.90909090909091,
+                354.5454545454545,
+                534.5454545454545
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 18,
+            "bbox": [
+                18.18181818181818,
+                52.72727272727272,
+                350.9090909090909,
+                568.1818181818181
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": 19,
+            "bbox": [
+                19.09090909090909,
+                58.18181818181818,
+                345.45454545454544,
+                541.8181818181819
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 21,
+            "image_id": 20,
+            "bbox": [
+                28.18181818181818,
+                60.90909090909091,
+                347.27272727272725,
+                560.9090909090909
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": 21,
+            "bbox": [
+                24.545454545454543,
+                49.090909090909086,
+                363.63636363636357,
+                570.9090909090909
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 23,
+            "image_id": 22,
+            "bbox": [
+                22.727272727272727,
+                45.45454545454545,
+                351.81818181818176,
+                556.3636363636363
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 24,
+            "image_id": 23,
+            "bbox": [
+                20.0,
+                53.63636363636363,
+                357.27272727272725,
+                590.9090909090909
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": 24,
+            "bbox": [
+                14.545454545454545,
+                54.54545454545454,
+                368.18181818181813,
+                570.9090909090909
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 26,
+            "image_id": 25,
+            "bbox": [
+                33.63636363636363,
+                66.36363636363636,
+                341.8181818181818,
+                558.1818181818181
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 27,
+            "image_id": 26,
+            "bbox": [
+                10.0,
+                42.72727272727273,
+                359.09090909090907,
+                579.9999999999999
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 28,
+            "image_id": 27,
+            "bbox": [
+                19.09090909090909,
+                50.90909090909091,
+                350.0,
+                570.0
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 29,
+            "image_id": 28,
+            "bbox": [
+                49.99999999999999,
+                53.63636363636363,
+                316.3636363636363,
+                561.8181818181818
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        },
+        {
+            "id": 30,
+            "image_id": 29,
+            "bbox": [
+                22.727272727272727,
+                52.72727272727272,
+                352.7272727272727,
+                353.6363636363636
+            ],
+            "category_id": 6,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "TITLE"
+        },
+        {
+            "id": 2,
+            "name": "H1"
+        },
+        {
+            "id": 3,
+            "name": "H2"
+        },
+        {
+            "id": 4,
+            "name": "H3"
+        },
+        {
+            "id": 5,
+            "name": "H4"
+        },
+        {
+            "id": 6,
+            "name": "BODY"
+        }
+    ]
+}
